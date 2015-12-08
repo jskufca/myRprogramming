@@ -21,3 +21,11 @@ complete.cases
 ### control structures
 
 slide 5 - nifty else syntax
+
+### scoping
+
+lots
+
+### coding standards
+
+lots of important
