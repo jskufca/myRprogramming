@@ -14,6 +14,10 @@ slide 6-8  optimizing read
 
 text formats and dumping and reading from internet
 
+### subsettting
+
+complete.cases
+
 ### control structures
 
 slide 5 - nifty else syntax
