@@ -13,3 +13,7 @@ slide 6-8  optimizing read
 ## reading data - 2
 
 text formats and dumping and reading from internet
+
+### control structures
+
+slide 5 - nifty else syntax
