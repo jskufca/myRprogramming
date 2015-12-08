@@ -6,6 +6,10 @@ supporting the Rprogramming course
 
 slide 16 - useful books
 
-## reading data
+## reading data - 1
 
 slide 6-8  optimizing read
+
+## reading data - 2
+
+text formats and dumping and reading from internet
