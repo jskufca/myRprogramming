@@ -41,6 +41,7 @@ multivariate apply
 ### tapply
 
 apply over a subset
+includes split
 
 
 
