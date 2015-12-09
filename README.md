@@ -29,3 +29,19 @@ lots
 ### coding standards
 
 lots of important
+
+### apply
+
+function to margins of array
+
+### mapply
+
+multivariate apply
+
+### tapply
+
+apply over a subset
+
+
+
+
