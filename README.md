@@ -44,6 +44,9 @@ apply over a subset
 
 includes split
 
+### R Profiler
+
+for code speedup
 
 
 
